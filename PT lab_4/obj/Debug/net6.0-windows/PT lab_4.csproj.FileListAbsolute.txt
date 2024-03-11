@@ -1,0 +1,41 @@
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4_MarkupCompile.cache
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4_MarkupCompile.lref
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.exe
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.deps.json
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.runtimeconfig.json
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.dll
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.pdb
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.g.resources
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.AssemblyInfo.cs
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.dll
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\refint\PT lab_4.dll
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.pdb
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.genruntimeconfig.cache
+C:\Users\marce\source\repos\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\ref\PT lab_4.dll
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.exe
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.deps.json
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.runtimeconfig.json
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.dll
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\bin\Debug\net6.0-windows\PT lab_4.pdb
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4_MarkupCompile.cache
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4_MarkupCompile.lref
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.g.resources
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.AssemblyInfoInputs.cache
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.AssemblyInfo.cs
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.csproj.CoreCompileInputs.cache
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.dll
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\refint\PT lab_4.dll
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.pdb
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\PT lab_4.genruntimeconfig.cache
+C:\Users\mrclo\OneDrive\Pulpit\PT lab_4\PT lab_4\obj\Debug\net6.0-windows\ref\PT lab_4.dll
